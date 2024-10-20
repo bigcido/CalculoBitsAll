@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculoBytes</string>
+    <string name="Title">CalculoBytes</string>
+    <string name="Kb">Kb</string>
+    <string name="Mb">Mb</string>
+    <string name="Gb">Gb</string>
+    <string name="Tb">Tb</string>
+    <string name="btnCalc">Calcular</string>
+</resources>
